@@ -9,7 +9,7 @@ const config = {
   // staticDirectories: ['static', 'mendjsdoc'],
   title: 'Mend.js',
   tagline: 'npm i mendjs',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://avatars.githubusercontent.com/u/94268117',
 
   // Set the production url of your site here
   url: 'https://mendjs.netlify.app.com',
@@ -39,6 +39,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'mendjsdoc/docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -48,6 +49,7 @@ const config = {
         blog: {
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
+          path: 'mendjsdoc/blog',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -67,10 +69,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Mendjs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'https://avatars.githubusercontent.com/u/94268117',
         },
         items: [
           {
@@ -81,7 +83,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/tangqiang0605',
             label: 'GitHub',
             position: 'right',
           },
@@ -125,12 +127,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/tangqiang0605',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TangQiang Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

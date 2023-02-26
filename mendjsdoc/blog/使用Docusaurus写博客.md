@@ -1,8 +1,8 @@
 ---
 # slug: welcome
-title: Docusaurus-blog
+title: 使用Docusaurus写博客
 authors: tangqiang
-tags: [facebook, hello, docusaurus]
+tags: [docusaurus]
 ---
 
 最佳实践是，配置显示所有博客。然后新建一个md就可以开始写。纯md中一个井号可以替换标题。新建作为url的文件名。然后一个井号标题，就可以开始正文了。
@@ -11,7 +11,7 @@ tags: [facebook, hello, docusaurus]
 
 ## 首部
 
-前端内容（front matter）用于将元数据添加到Markdown文件中。所有内容插件都有自己的前端模式，并使用前端模式来丰富从内容或其他配置推断出的默认元数据。 前面的内容位于文件的最顶端，用三个破折号包围。内容被解析为YAML。
+前端内容（front matter）用于将元数据添加到 Markdown 文件中。所有内容插件都有自己的前端模式，并使用前端模式来丰富从内容或其他配置推断出的默认元数据。前面的内容位于文件的最顶端，用三个破折号包围。内容被解析为 YAML。（在 yaml 中井号表示注释）
 
 所有字段以及默认值：https://www.docusaurus.cn/docs/api/plugins/@docusaurus/plugin-content-blog#markdown-front-matter
 

@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8756452c9d80613e",
+        "id": "0a289c2c63af1539",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf5ea04deb5d40c",
+            "id": "c2228e40b3748007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/文档编辑器的选择.md",
+                "file": "blog/一些技巧.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/文档编辑器的选择.md",
+                "file": "blog/一些技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/文档编辑器的选择.md",
+                "file": "blog/一些技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/文档编辑器的选择.md"
+                "file": "blog/一些技巧.md"
               }
             }
           }
@@ -146,10 +146,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ddf5ea04deb5d40c",
+  "active": "267afc4dd207abda",
   "lastOpenFiles": [
+    "blog/使用Mockjs生成随机数据.md",
+    "blog/草稿/ESM陷阱.md",
+    "blog/草稿/mendjs开发日志.md",
+    "blog/草稿/开发中遇到的问题与解决方法.md",
     "blog/开发Mendjs过程中的环境配置.md",
-    "blog/文档编辑器的选择.md",
-    "未命名"
+    "blog/使用Docusaurus写博客.md",
+    "blog/开发文档项目的最佳实践.md",
+    "blog/草稿/Mendjs概念与设计.md",
+    "blog/草稿",
+    "blog/一些技巧.md",
+    "blog/javascript",
+    "temp/css.md",
+    "temp/obsidian.md",
+    "temp/未命名.md",
+    "static/Pasted image 20230226130117.png",
+    "Pasted image 20230226130117.png.md",
+    "temp",
+    "static",
+    "blog/文档编辑工作流.md",
+    "static/img/Pasted image 20230226130406.png",
+    "blog/a.md",
+    "static/img/Pasted image 20230226130117.png"
   ]
 }
