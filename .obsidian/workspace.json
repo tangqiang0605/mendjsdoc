@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "9b29046891fa7a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "8756452c9d80613e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddf5ea04deb5d40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/文档编辑器的选择.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87d70e5b601a0a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "83cc78c1fddc6df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267afc4dd207abda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68394e1173c572ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e67a6d56c064235",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a01b86e01109cfbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c399ac7c7784cc05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e6f68e9638cd0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/文档编辑器的选择.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a5fb259ddc2579f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/文档编辑器的选择.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad772a45ee481b88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e11d504fd5c496fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/文档编辑器的选择.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ddf5ea04deb5d40c",
+  "lastOpenFiles": [
+    "blog/开发Mendjs过程中的环境配置.md",
+    "blog/文档编辑器的选择.md",
+    "未命名"
+  ]
+}
